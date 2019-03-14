@@ -1,0 +1,17 @@
+src
+ app
+  customers
+   customers.component.ts|.html|.css
+   customer
+    customer.component.ts|.html|.css
+
+    customer-list
+     customer-list.component.ts|.html|.css
+
+     shared
+      customer.service.ts
+      customer.model.ts
+
+  app.module.ts
+
+--index.html (cdn path for bootstrap and font-awesome icon  )
